@@ -1,4 +1,4 @@
-public class Hello {
+public class Varialvel {
     public static void main(String[] args) {
       int A, B, C; 
   
