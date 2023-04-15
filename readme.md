@@ -1,6 +1,6 @@
 # VARIAVEL
 
-explicação 
+Explicação 
 1. Define três variáveis chamadas A, B e C, e atribui valores numéricos a elas (5, 15 e 10, respectivamente).
 2. Define na tela os valores das variáveis B, C e A, nessa ordem.
 3. Define o valor de B à variável A, o valor de A à variável B (embora isso não mude nada, já que A e B já têm o mesmo valor), e o valor de C à variável C (o que também não muda nada).
@@ -10,11 +10,20 @@ Em resumo, este programa demonstra como atribuir valores a variáveis, imprimi-l
  
 
 
- # CONDICIONAL
+ # CONDICIONAL-1
 
-explicação
- A função deste código é permitir podermos ver a nota de um usuário em uma situação de escola.
+Explicação
+A função deste código é permitir podermos ver a nota de um usuário em uma situação de escola.
 
 1. Em caso de a nota for <= a 40,  o aluno estara reprovado.
 2.  Se a nota estiver entre 40 e 70, resultará em recuperação.
 3. É inicializado em caso de nenhum das outras condições estarem ativadas
+
+
+
+# CONDICIONAL-2 
+
+Explicação
+1. Primeiro é definido para mostrar na tela ("Informe o DDD desejado"). 
+2. Após informarmos o DDD desejado é iniciado uma estrutura de "Switch case".  
+3. Assim, quando informamos o DDD, é apresentado o nome do Estado que foi escolhido.
